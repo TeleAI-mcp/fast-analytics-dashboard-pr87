@@ -1,2 +1,3 @@
-# fast-analytics-dashboard-pr87
+# Fast Analytics Dashboard Pr87
+
 A repository to test GitHub automation for issue management.
